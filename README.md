@@ -1,8 +1,8 @@
 # PCB-Business-Card
 
-**PCB Top**                      |  **PCB_Bottom**   
-:---------------------------:|:-------------------------------------:
-<img src=".image/Top.PNG">|  <img align="right" src=".github/PCB_Bottom.PNG">
+**PCB Top**                       
+:---------------------------:
+<img src="image/Top.PNG">  >
 
 ## Resources
 
