@@ -10,5 +10,4 @@ Ihave used [https://www.qrcode-monkey.com/](https://www.qrcode-monkey.com/) for 
 
 ### PCB Manufacturing
 
-This template is already setup for [JLCPCB](https://jlcpcb.com/).  Silk screen text must be at least 6 mils thick and solder mask can be much smaller.  The PCB's are manufactured by [ JLCPCB ](https://jlcpcb.com/) had the best price for boards with ENIG processing ( for better looking ). You can design your board using the free online editor or use the desktop version [ EasyEDA ] tool (https://easyeda.com/), here you can import 
-If you use another thickness (0.6 mm for example) make sure you use ENIG or HASL Lead Free processing.  ENIG looks the best.  Finally [JLCPCB](https://jlcpcb.com/) allows you to specify where the tracking number goes on your board.  That is part of this template.  If you use another board house, they may put the ID number somewhere undesirable.
+This template is already setup for [JLCPCB](https://jlcpcb.com/).  Silk screen text must be at least 6 mils thick and solder mask can be much smaller.  The PCB's are manufactured by **[ JLCPCB ]**(https://jlcpcb.com/) had the best price for boards with ENIG processing ( for better looking ). You can design your board using the free online editor or use the desktop version [ EasyEDA ] tool (https://easyeda.com/).
