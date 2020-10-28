@@ -13,6 +13,8 @@ Ihave used [https://www.qrcode-monkey.com/](https://www.qrcode-monkey.com/) for 
 
 # PCB Manufacturing <a name="id3"></a>
 
-This template is already setup for [JLCPCB](https://jlcpcb.com/).  Silk screen text must be at least 6 mils thick and solder mask can be much smaller.  The PCB's are manufactured by [ JLCPCB ](https://jlcpcb.com/) had the best price for boards with ENIG processing ( for better looking ). 
+This PCB is manufactured by [JLCPCB](https://jlcpcb.com/). 
+*[ JLCPCB ](https://jlcpcb.com/) has the best price for PCB prototype with fast delivery, price stating from 5$ 4 Layer PCB 5 Pcs Size 50 x 50 mm ( for better looking ).*
+* I have ordered this Card wit a thickens 1.0 Black color with ENIG-RoHS Surface Finish for a nice look.
 
 *You can design your board using the free online editor or use the desktop version [ EasyEDA ](https://easyeda.com/).*
