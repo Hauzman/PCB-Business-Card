@@ -6,13 +6,12 @@
 
 ## Resources
 
-### QR Codes
+### QR Codes <a name="id3"></a>
 
 Ihave used [https://www.qrcode-monkey.com/](https://www.qrcode-monkey.com/) for generating QR codes.  There is option to modify the dot style and you can put a logo in the middle of the QR code.
 
-*Please Note: QR codes require a light background and dark dots.  If using a white silk screen be sure to invert the QR code and leave a border around it.*
 
-### PCB Manufacturing
+### PCB Manufacturing <a name="id3"></a>
 
 This template is already setup for [JLCPCB](https://jlcpcb.com/).  Silk screen text must be at least 6 mils thick and solder mask can be much smaller.  The PCB's are manufactured by [ JLCPCB ](https://jlcpcb.com/) had the best price for boards with ENIG processing ( for better looking ). 
 
