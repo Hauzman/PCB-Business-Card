@@ -2,7 +2,7 @@
 
 **PCB Top**                       
 :---------------------------:
-<img src="image/Top.PNG">  >
+<img src="image/Top.PNG">  
 
 ## Resources
 
